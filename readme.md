@@ -8,7 +8,7 @@ Develop an NLP-based enhancement model that analyzes tweet text and suggests imp
 
 Dataset
 - Name: Tweets and User Engagement Dataset
-- File: Twitterdatainsheets.csv
+- File: [Twitterdatainsheets.csv](https://www.kaggle.com/datasets/thedevastator/tweets-and-user-engagement)
 
 Relevant Features:
 - text → The actual tweet content (to be optimized)
